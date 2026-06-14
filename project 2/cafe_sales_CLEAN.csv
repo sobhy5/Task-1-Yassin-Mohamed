@@ -1,0 +1,301 @@
+Transaction_ID,Date,Item,Category,Quantity,Price_Per_Unit,Total_Spent,Payment_Method
+TXN0051,2023-02-04,Coffee,Hot Drinks,2,3.5,7.0,Cash
+TXN0299,2023-07-28,Latte,Hot Drinks,5,4.5,22.5,Debit Card
+TXN0252,2023-10-30,Sandwich,Food,5,6.0,30.0,Debit Card
+TXN0232,2023-07-05,Cake,Food,5,4.5,22.5,Mobile Payment
+TXN0016,2023-08-21,Muffin,Food,3,3.5,10.5,Debit Card
+TXN0033,2023-11-25,Espresso,Hot Drinks,3,3.0,9.0,Debit Card
+TXN0112,2023-04-08,Muffin,Food,5,3.5,17.5,Debit Card
+TXN0044,2023-11-07,Juice,Cold Drinks,5,3.0,15.0,Debit Card
+TXN0178,2023-04-19,Sandwich,Food,4,6.0,24.0,Debit Card
+TXN0103,2023-08-29,Muffin,Food,1,3.5,3.5,Credit Card
+TXN0083,2023-03-22,Salad,Food,3,7.0,21.0,Debit Card
+TXN0113,2023-01-01,Coffee,Hot Drinks,4,3.5,14.0,Credit Card
+TXN0142,2023-08-01,Cake,Food,1,4.5,4.5,Mobile Payment
+TXN0275,2023-05-21,Coffee,Hot Drinks,4,3.5,14.0,Credit Card
+TXN0107,2023-11-25,Juice,Cold Drinks,3,3.0,9.0,Mobile Payment
+TXN0219,2023-11-03,Latte,Hot Drinks,1,4.5,4.5,Debit Card
+TXN0163,2023-11-07,Salad,Food,2,7.0,14.0,Cash
+TXN0003,2023-01-17,Bagel,Food,4,4.0,16.0,Cash
+TXN0276,2023-11-07,Bagel,Food,1,4.0,4.0,Mobile Payment
+TXN0279,2023-11-18,Sandwich,Food,1,6.0,6.0,Cash
+TXN0116,2023-06-08,Juice,Cold Drinks,5,3.0,15.0,Mobile Payment
+TXN0004,2023-04-30,Tea,Hot Drinks,2,2.5,5.0,Cash
+TXN0165,2023-12-13,Juice,Cold Drinks,5,3.0,15.0,Mobile Payment
+TXN0087,2023-05-20,Espresso,Hot Drinks,2,3.0,6.0,Debit Card
+TXN0062,2023-01-26,Espresso,Hot Drinks,1,3.0,3.0,Cash
+TXN0285,2023-08-28,Salad,Food,1,7.0,7.0,Cash
+TXN0011,2023-10-02,Coffee,Hot Drinks,4,3.5,14.0,Cash
+TXN0008,2023-03-21,Salad,Food,3,7.0,21.0,Credit Card
+TXN0037,2023-04-12,Espresso,Hot Drinks,5,3.0,15.0,Credit Card
+TXN0052,2023-09-21,Salad,Food,1,7.0,7.0,Credit Card
+TXN0054,2023-08-31,Bagel,Food,3,4.0,12.0,Credit Card
+TXN0085,2023-12-06,Espresso,Hot Drinks,3,3.0,9.0,Cash
+TXN0200,2023-11-19,Tea,Hot Drinks,5,2.5,12.5,Cash
+TXN0256,2023-11-29,Bagel,Food,4,4.0,16.0,Cash
+TXN0093,2023-10-15,Espresso,Hot Drinks,4,3.0,12.0,Credit Card
+TXN0122,2023-08-15,Latte,Hot Drinks,4,4.5,18.0,Credit Card
+TXN0102,2023-12-26,Juice,Cold Drinks,2,3.0,6.0,Cash
+TXN0153,2023-03-11,Tea,Hot Drinks,4,2.5,10.0,Mobile Payment
+TXN0125,2023-12-11,Tea,Hot Drinks,2,2.5,5.0,Debit Card
+TXN0050,2023-01-04,Bagel,Food,2,4.0,8.0,Cash
+TXN0005,2023-11-29,Espresso,Hot Drinks,2,3.0,6.0,Mobile Payment
+TXN0064,2023-04-20,Latte,Hot Drinks,3,4.5,13.5,Debit Card
+TXN0148,2023-05-20,Latte,Hot Drinks,2,4.5,9.0,Mobile Payment
+TXN0059,2023-04-08,Cake,Food,2,4.5,9.0,Mobile Payment
+TXN0108,2023-01-15,Espresso,Hot Drinks,3,3.0,9.0,Cash
+TXN0180,2023-09-22,Espresso,Hot Drinks,1,3.0,3.0,Credit Card
+TXN0128,2023-11-19,Latte,Hot Drinks,4,4.5,18.0,Credit Card
+TXN0297,2023-07-09,Muffin,Food,4,3.5,14.0,Mobile Payment
+TXN0119,2023-11-12,Muffin,Food,2,3.5,7.0,Debit Card
+TXN0290,2023-11-23,Bagel,Food,4,4.0,16.0,Debit Card
+TXN0206,2023-01-31,Bagel,Food,5,4.0,20.0,Cash
+TXN0218,2023-09-14,Muffin,Food,3,3.5,10.5,Mobile Payment
+TXN0135,2023-03-23,Espresso,Hot Drinks,4,3.0,12.0,Mobile Payment
+TXN0154,2023-05-14,Sandwich,Food,1,6.0,6.0,Mobile Payment
+TXN0187,2023-06-30,Espresso,Hot Drinks,3,3.0,9.0,Mobile Payment
+TXN0114,2023-02-05,Salad,Food,4,7.0,28.0,Debit Card
+TXN0283,2023-09-29,Espresso,Hot Drinks,3,3.0,9.0,Debit Card
+TXN0027,2023-07-05,Bagel,Food,4,4.0,16.0,Mobile Payment
+TXN0138,2023-02-09,Juice,Cold Drinks,4,3.0,12.0,Debit Card
+TXN0045,2023-12-20,Cake,Food,5,4.5,22.5,Credit Card
+TXN0143,2023-08-27,Salad,Food,5,7.0,35.0,Mobile Payment
+TXN0243,2023-08-01,Tea,Hot Drinks,3,2.5,7.5,Debit Card
+TXN0238,2023-03-02,Tea,Hot Drinks,4,2.5,10.0,Credit Card
+TXN0057,2023-01-28,Muffin,Food,4,3.5,14.0,Cash
+TXN0295,2023-09-10,Coffee,Hot Drinks,3,3.5,10.5,Cash
+TXN0145,2023-10-22,Bagel,Food,1,4.0,4.0,Mobile Payment
+TXN0199,2023-07-25,Tea,Hot Drinks,3,2.5,7.5,Credit Card
+TXN0289,2023-12-11,Latte,Hot Drinks,3,4.5,13.5,Debit Card
+TXN0123,2023-03-28,Espresso,Hot Drinks,4,3.0,12.0,Cash
+TXN0097,2023-07-03,Salad,Food,1,7.0,7.0,Credit Card
+TXN0159,2023-01-16,Tea,Hot Drinks,1,2.5,2.5,Credit Card
+TXN0209,2023-07-29,Sandwich,Food,1,6.0,6.0,Mobile Payment
+TXN0300,2023-04-22,Coffee,Hot Drinks,3,3.5,10.5,Mobile Payment
+TXN0226,2023-06-14,Muffin,Food,3,3.5,10.5,Cash
+TXN0041,2023-10-18,Coffee,Hot Drinks,2,3.5,7.0,Cash
+TXN0007,2023-12-24,Coffee,Hot Drinks,2,3.5,7.0,Mobile Payment
+TXN0082,2023-02-05,Sandwich,Food,3,6.0,18.0,Credit Card
+TXN0236,2023-10-10,Sandwich,Food,3,6.0,18.0,Cash
+TXN0091,2023-01-02,Juice,Cold Drinks,1,3.0,3.0,Debit Card
+TXN0241,2023-03-16,Latte,Hot Drinks,5,4.5,22.5,Mobile Payment
+TXN0126,2023-03-17,Cake,Food,2,4.5,9.0,Cash
+TXN0177,2023-09-11,Salad,Food,1,7.0,7.0,Debit Card
+TXN0281,2023-06-01,Sandwich,Food,1,6.0,6.0,Debit Card
+TXN0137,2023-11-17,Espresso,Hot Drinks,4,3.0,12.0,Credit Card
+TXN0073,2023-12-12,Bagel,Food,1,4.0,4.0,Credit Card
+TXN0077,2023-12-09,Juice,Cold Drinks,2,3.0,6.0,Debit Card
+TXN0249,2023-04-30,Bagel,Food,4,4.0,16.0,Mobile Payment
+TXN0197,2023-08-14,Latte,Hot Drinks,4,4.5,18.0,Debit Card
+TXN0227,2023-07-30,Sandwich,Food,3,6.0,18.0,Debit Card
+TXN0173,2023-09-05,Bagel,Food,5,4.0,20.0,Mobile Payment
+TXN0175,2023-05-23,Cake,Food,1,4.5,4.5,Mobile Payment
+TXN0034,2023-08-11,Tea,Hot Drinks,3,2.5,7.5,Debit Card
+TXN0074,2023-10-19,Muffin,Food,1,3.5,3.5,Credit Card
+TXN0127,2023-09-01,Coffee,Hot Drinks,2,3.5,7.0,Cash
+TXN0151,2023-01-14,Bagel,Food,3,4.0,12.0,Mobile Payment
+TXN0221,2023-04-28,Coffee,Hot Drinks,1,3.5,3.5,Cash
+TXN0047,2023-08-20,Latte,Hot Drinks,5,4.5,22.5,Cash
+TXN0171,2023-11-22,Muffin,Food,3,3.5,10.5,Mobile Payment
+TXN0156,2023-05-23,Salad,Food,4,7.0,28.0,Mobile Payment
+TXN0189,2023-06-11,Tea,Hot Drinks,3,2.5,7.5,Cash
+TXN0176,2023-10-19,Cake,Food,4,4.5,18.0,Mobile Payment
+TXN0242,2023-09-18,Cake,Food,5,4.5,22.5,Credit Card
+TXN0055,2023-04-08,Latte,Hot Drinks,4,4.5,18.0,Cash
+TXN0214,2023-10-06,Muffin,Food,1,3.5,3.5,Debit Card
+TXN0190,2023-04-09,Espresso,Hot Drinks,2,3.0,6.0,Credit Card
+TXN0067,2023-12-05,Muffin,Food,5,3.5,17.5,Mobile Payment
+TXN0120,2023-01-01,Muffin,Food,5,3.5,17.5,Debit Card
+TXN0038,2023-10-04,Salad,Food,2,7.0,14.0,Cash
+TXN0104,2023-06-29,Cake,Food,4,4.5,18.0,Debit Card
+TXN0268,2023-08-24,Latte,Hot Drinks,3,4.5,13.5,Debit Card
+TXN0265,2023-03-29,Bagel,Food,2,4.0,8.0,Credit Card
+TXN0013,2023-10-23,Bagel,Food,3,4.0,12.0,Credit Card
+TXN0066,2023-08-21,Muffin,Food,3,3.5,10.5,Debit Card
+TXN0111,2023-08-12,Salad,Food,3,7.0,21.0,Cash
+TXN0010,2023-06-26,Tea,Hot Drinks,3,2.5,7.5,Debit Card
+TXN0267,2023-03-15,Latte,Hot Drinks,5,4.5,22.5,Credit Card
+TXN0205,2023-08-08,Juice,Cold Drinks,5,3.0,15.0,Debit Card
+TXN0167,2023-12-17,Tea,Hot Drinks,3,2.5,7.5,Cash
+TXN0025,2023-03-13,Sandwich,Food,3,6.0,18.0,Credit Card
+TXN0204,2023-08-19,Espresso,Hot Drinks,4,3.0,12.0,Mobile Payment
+TXN0196,2023-01-07,Latte,Hot Drinks,1,4.5,4.5,Cash
+TXN0203,2023-11-13,Bagel,Food,5,4.0,20.0,Credit Card
+TXN0181,2023-07-28,Tea,Hot Drinks,2,2.5,5.0,Credit Card
+TXN0291,2023-08-30,Tea,Hot Drinks,2,2.5,5.0,Cash
+TXN0235,2023-01-15,Latte,Hot Drinks,1,4.5,4.5,Credit Card
+TXN0260,2023-11-21,Muffin,Food,1,3.5,3.5,Cash
+TXN0225,2023-08-29,Latte,Hot Drinks,1,4.5,4.5,Debit Card
+TXN0263,2023-07-11,Juice,Cold Drinks,3,3.0,9.0,Mobile Payment
+TXN0215,2023-03-14,Sandwich,Food,3,6.0,18.0,Cash
+TXN0049,2023-10-11,Coffee,Hot Drinks,5,3.5,17.5,Credit Card
+TXN0017,2023-07-01,Sandwich,Food,3,6.0,18.0,Credit Card
+TXN0212,2023-12-18,Latte,Hot Drinks,1,4.5,4.5,Credit Card
+TXN0134,2023-09-16,Latte,Hot Drinks,5,4.5,22.5,Mobile Payment
+TXN0288,2023-10-02,Coffee,Hot Drinks,3,3.5,10.5,Mobile Payment
+TXN0015,2023-04-30,Juice,Cold Drinks,1,3.0,3.0,Cash
+TXN0272,2023-09-05,Cake,Food,4,4.5,18.0,Cash
+TXN0031,2023-08-28,Muffin,Food,5,3.5,17.5,Debit Card
+TXN0217,2023-08-28,Latte,Hot Drinks,1,4.5,4.5,Debit Card
+TXN0086,2023-03-01,Sandwich,Food,3,6.0,18.0,Cash
+TXN0081,2023-04-20,Tea,Hot Drinks,5,2.5,12.5,Debit Card
+TXN0002,2023-02-22,Cake,Food,2,4.5,9.0,Mobile Payment
+TXN0118,2023-04-09,Espresso,Hot Drinks,2,3.0,6.0,Mobile Payment
+TXN0195,2023-05-30,Coffee,Hot Drinks,5,3.5,17.5,Credit Card
+TXN0133,2023-08-26,Latte,Hot Drinks,2,4.5,9.0,Debit Card
+TXN0280,2023-01-18,Juice,Cold Drinks,4,3.0,12.0,Debit Card
+TXN0009,2023-02-17,Salad,Food,1,7.0,7.0,Mobile Payment
+TXN0019,2023-03-25,Espresso,Hot Drinks,2,3.0,6.0,Mobile Payment
+TXN0172,2023-04-01,Sandwich,Food,4,6.0,24.0,Debit Card
+TXN0129,2023-07-24,Muffin,Food,4,3.5,14.0,Credit Card
+TXN0286,2023-12-13,Sandwich,Food,2,6.0,12.0,Mobile Payment
+TXN0201,2023-10-16,Sandwich,Food,2,6.0,12.0,Debit Card
+TXN0022,2023-05-18,Salad,Food,4,7.0,28.0,Cash
+TXN0006,2023-10-29,Cake,Food,4,4.5,18.0,Debit Card
+TXN0248,2023-04-07,Latte,Hot Drinks,3,4.5,13.5,Credit Card
+TXN0058,2023-06-23,Coffee,Hot Drinks,4,3.5,14.0,Cash
+TXN0269,2023-05-28,Coffee,Hot Drinks,3,3.5,10.5,Credit Card
+TXN0099,2023-05-02,Bagel,Food,2,4.0,8.0,Credit Card
+TXN0090,2023-11-21,Coffee,Hot Drinks,1,3.5,3.5,Mobile Payment
+TXN0234,2023-05-28,Espresso,Hot Drinks,2,3.0,6.0,Mobile Payment
+TXN0149,2023-07-19,Latte,Hot Drinks,1,4.5,4.5,Debit Card
+TXN0208,2023-03-30,Sandwich,Food,2,6.0,12.0,Cash
+TXN0072,2023-04-06,Espresso,Hot Drinks,1,3.0,3.0,Cash
+TXN0157,2023-08-29,Juice,Cold Drinks,1,3.0,3.0,Cash
+TXN0274,2023-12-25,Bagel,Food,3,4.0,12.0,Debit Card
+TXN0068,2023-06-01,Sandwich,Food,2,6.0,12.0,Credit Card
+TXN0144,2023-08-04,Coffee,Hot Drinks,2,3.5,7.0,Mobile Payment
+TXN0071,2023-03-22,Espresso,Hot Drinks,5,3.0,15.0,Cash
+TXN0277,2023-11-07,Juice,Cold Drinks,2,3.0,6.0,Debit Card
+TXN0140,2023-03-12,Espresso,Hot Drinks,1,3.0,3.0,Credit Card
+TXN0244,2023-01-02,Espresso,Hot Drinks,3,3.0,9.0,Debit Card
+TXN0210,2023-05-30,Bagel,Food,4,4.0,16.0,Cash
+TXN0075,2023-01-21,Bagel,Food,5,4.0,20.0,Cash
+TXN0158,2023-06-29,Espresso,Hot Drinks,3,3.0,9.0,Debit Card
+TXN0237,2023-02-17,Espresso,Hot Drinks,4,3.0,12.0,Credit Card
+TXN0293,2023-12-25,Tea,Hot Drinks,4,2.5,10.0,Debit Card
+TXN0231,2023-07-31,Espresso,Hot Drinks,4,3.0,12.0,Cash
+TXN0040,2023-06-07,Tea,Hot Drinks,3,2.5,7.5,Credit Card
+TXN0298,2023-08-01,Bagel,Food,2,4.0,8.0,Cash
+TXN0266,2023-07-15,Tea,Hot Drinks,5,2.5,12.5,Credit Card
+TXN0257,2023-07-14,Salad,Food,5,7.0,35.0,Debit Card
+TXN0039,2023-09-08,Bagel,Food,3,4.0,12.0,Cash
+TXN0117,2023-12-23,Salad,Food,4,7.0,28.0,Debit Card
+TXN0098,2023-07-01,Cake,Food,1,4.5,4.5,Mobile Payment
+TXN0246,2023-10-03,Sandwich,Food,4,6.0,24.0,Mobile Payment
+TXN0194,2023-05-21,Espresso,Hot Drinks,3,3.0,9.0,Debit Card
+TXN0023,2023-06-11,Cake,Food,5,4.5,22.5,Credit Card
+TXN0155,2023-08-21,Salad,Food,2,7.0,14.0,Debit Card
+TXN0160,2023-11-15,Cake,Food,1,4.5,4.5,Credit Card
+TXN0139,2023-06-21,Cake,Food,3,4.5,13.5,Credit Card
+TXN0259,2023-04-27,Cake,Food,3,4.5,13.5,Cash
+TXN0026,2023-05-15,Espresso,Hot Drinks,3,3.0,9.0,Debit Card
+TXN0184,2023-07-27,Juice,Cold Drinks,2,3.0,6.0,Credit Card
+TXN0014,2023-12-05,Tea,Hot Drinks,1,2.5,2.5,Credit Card
+TXN0146,2023-06-30,Latte,Hot Drinks,3,4.5,13.5,Debit Card
+TXN0213,2023-12-05,Juice,Cold Drinks,5,3.0,15.0,Credit Card
+TXN0207,2023-05-16,Cake,Food,3,4.5,13.5,Debit Card
+TXN0247,2023-10-10,Salad,Food,3,7.0,21.0,Mobile Payment
+TXN0065,2023-07-14,Coffee,Hot Drinks,2,3.5,7.0,Cash
+TXN0254,2023-07-29,Coffee,Hot Drinks,2,3.5,7.0,Credit Card
+TXN0224,2023-10-27,Juice,Cold Drinks,2,3.0,6.0,Mobile Payment
+TXN0053,2023-04-20,Juice,Cold Drinks,4,3.0,12.0,Mobile Payment
+TXN0100,2023-01-13,Sandwich,Food,4,6.0,24.0,Credit Card
+TXN0035,2023-05-15,Latte,Hot Drinks,1,4.5,4.5,Cash
+TXN0079,2023-06-11,Juice,Cold Drinks,3,3.0,9.0,Debit Card
+TXN0186,2023-06-26,Espresso,Hot Drinks,5,3.0,15.0,Mobile Payment
+TXN0121,2023-08-09,Juice,Cold Drinks,2,3.0,6.0,Debit Card
+TXN0185,2023-07-08,Juice,Cold Drinks,5,3.0,15.0,Mobile Payment
+TXN0168,2023-06-27,Bagel,Food,3,4.0,12.0,Debit Card
+TXN0273,2023-10-20,Cake,Food,4,4.5,18.0,Debit Card
+TXN0070,2023-01-26,Salad,Food,1,7.0,7.0,Mobile Payment
+TXN0188,2023-05-09,Juice,Cold Drinks,3,3.0,9.0,Credit Card
+TXN0174,2023-05-18,Muffin,Food,5,3.5,17.5,Debit Card
+TXN0029,2023-03-20,Coffee,Hot Drinks,1,3.5,3.5,Credit Card
+TXN0136,2023-05-07,Latte,Hot Drinks,3,4.5,13.5,Debit Card
+TXN0132,2023-05-08,Coffee,Hot Drinks,5,3.5,17.5,Cash
+TXN0282,2023-04-13,Muffin,Food,2,3.5,7.0,Credit Card
+TXN0166,2023-02-08,Muffin,Food,2,3.5,7.0,Credit Card
+TXN0043,2023-10-09,Sandwich,Food,4,6.0,24.0,Debit Card
+TXN0024,2023-11-26,Latte,Hot Drinks,4,4.5,18.0,Mobile Payment
+TXN0092,2023-03-24,Sandwich,Food,3,6.0,18.0,Mobile Payment
+TXN0294,2023-03-13,Muffin,Food,1,3.5,3.5,Cash
+TXN0223,2023-11-30,Latte,Hot Drinks,5,4.5,22.5,Mobile Payment
+TXN0183,2023-01-09,Latte,Hot Drinks,4,4.5,18.0,Cash
+TXN0088,2023-06-25,Bagel,Food,2,4.0,8.0,Credit Card
+TXN0042,2023-02-05,Tea,Hot Drinks,4,2.5,10.0,Credit Card
+TXN0101,2023-12-09,Salad,Food,4,7.0,28.0,Credit Card
+TXN0261,2023-12-22,Latte,Hot Drinks,2,4.5,9.0,Debit Card
+TXN0095,2023-07-09,Espresso,Hot Drinks,1,3.0,3.0,Credit Card
+TXN0076,2023-10-17,Muffin,Food,5,3.5,17.5,Debit Card
+TXN0032,2023-12-15,Espresso,Hot Drinks,1,3.0,3.0,Cash
+TXN0191,2023-10-29,Latte,Hot Drinks,3,4.5,13.5,Debit Card
+TXN0192,2023-06-01,Tea,Hot Drinks,2,2.5,5.0,Credit Card
+TXN0094,2023-12-20,Tea,Hot Drinks,3,2.5,7.5,Debit Card
+TXN0046,2023-12-10,Juice,Cold Drinks,4,3.0,12.0,Debit Card
+TXN0162,2023-08-27,Bagel,Food,2,4.0,8.0,Debit Card
+TXN0287,2023-02-16,Espresso,Hot Drinks,3,3.0,9.0,Mobile Payment
+TXN0109,2023-10-25,Juice,Cold Drinks,2,3.0,6.0,Debit Card
+TXN0106,2023-05-23,Muffin,Food,3,3.5,10.5,Cash
+TXN0150,2023-08-28,Muffin,Food,2,3.5,7.0,Credit Card
+TXN0030,2023-02-02,Muffin,Food,5,3.5,17.5,Mobile Payment
+TXN0182,2023-12-20,Espresso,Hot Drinks,2,3.0,6.0,Mobile Payment
+TXN0110,2023-11-02,Coffee,Hot Drinks,1,3.5,3.5,Mobile Payment
+TXN0164,2023-02-25,Sandwich,Food,3,6.0,18.0,Debit Card
+TXN0028,2023-09-10,Sandwich,Food,5,6.0,30.0,Cash
+TXN0105,2023-01-13,Cake,Food,2,4.5,9.0,Cash
+TXN0061,2023-02-08,Latte,Hot Drinks,3,4.5,13.5,Debit Card
+TXN0147,2023-10-03,Muffin,Food,4,3.5,14.0,Credit Card
+TXN0084,2023-11-10,Espresso,Hot Drinks,3,3.0,9.0,Cash
+TXN0264,2023-09-29,Sandwich,Food,2,6.0,12.0,Mobile Payment
+TXN0228,2023-10-09,Juice,Cold Drinks,4,3.0,12.0,Cash
+TXN0270,2023-06-26,Tea,Hot Drinks,4,2.5,10.0,Debit Card
+TXN0152,2023-12-06,Bagel,Food,5,4.0,20.0,Cash
+TXN0001,2023-05-21,Tea,Hot Drinks,1,2.5,2.5,Credit Card
+TXN0271,2023-08-22,Muffin,Food,3,3.5,10.5,Debit Card
+TXN0089,2023-09-08,Juice,Cold Drinks,5,3.0,15.0,Debit Card
+TXN0078,2023-07-22,Cake,Food,3,4.5,13.5,Credit Card
+TXN0124,2023-12-06,Juice,Cold Drinks,5,3.0,15.0,Debit Card
+TXN0096,2023-01-22,Muffin,Food,2,3.5,7.0,Debit Card
+TXN0012,2023-10-10,Muffin,Food,1,3.5,3.5,Debit Card
+TXN0115,2023-12-06,Bagel,Food,3,4.0,12.0,Cash
+TXN0258,2023-01-19,Latte,Hot Drinks,5,4.5,22.5,Cash
+TXN0220,2023-11-06,Muffin,Food,3,3.5,10.5,Debit Card
+TXN0253,2023-02-21,Tea,Hot Drinks,4,2.5,10.0,Mobile Payment
+TXN0296,2023-10-03,Tea,Hot Drinks,2,2.5,5.0,Credit Card
+TXN0262,2023-06-16,Coffee,Hot Drinks,1,3.5,3.5,Cash
+TXN0179,2023-05-24,Juice,Cold Drinks,3,3.0,9.0,Debit Card
+TXN0020,2023-11-24,Muffin,Food,3,3.5,10.5,Credit Card
+TXN0170,2023-09-08,Coffee,Hot Drinks,4,3.5,14.0,Cash
+TXN0240,2023-08-30,Muffin,Food,4,3.5,14.0,Debit Card
+TXN0278,2023-11-14,Cake,Food,2,4.5,9.0,Debit Card
+TXN0161,2023-08-31,Cake,Food,2,4.5,9.0,Cash
+TXN0018,2023-11-08,Juice,Cold Drinks,1,3.0,3.0,Credit Card
+TXN0063,2023-03-27,Tea,Hot Drinks,2,2.5,5.0,Mobile Payment
+TXN0250,2023-08-31,Coffee,Hot Drinks,3,3.5,10.5,Mobile Payment
+TXN0229,2023-06-11,Latte,Hot Drinks,1,4.5,4.5,Debit Card
+TXN0239,2023-09-18,Latte,Hot Drinks,3,4.5,13.5,Debit Card
+TXN0230,2023-07-26,Salad,Food,3,7.0,21.0,Debit Card
+TXN0284,2023-09-04,Sandwich,Food,3,6.0,18.0,Debit Card
+TXN0048,2023-02-02,Cake,Food,2,4.5,9.0,Credit Card
+TXN0251,2023-09-11,Muffin,Food,2,3.5,7.0,Cash
+TXN0080,2023-11-15,Coffee,Hot Drinks,4,3.5,14.0,Cash
+TXN0021,2023-04-28,Salad,Food,1,7.0,7.0,Cash
+TXN0141,2023-12-22,Cake,Food,4,4.5,18.0,Credit Card
+TXN0193,2023-06-04,Salad,Food,2,7.0,14.0,Cash
+TXN0131,2023-12-23,Cake,Food,2,4.5,9.0,Cash
+TXN0216,2023-06-07,Coffee,Hot Drinks,2,3.5,7.0,Debit Card
+TXN0245,2023-10-24,Juice,Cold Drinks,5,3.0,15.0,Mobile Payment
+TXN0060,2023-04-04,Sandwich,Food,4,6.0,24.0,Debit Card
+TXN0222,2023-01-21,Juice,Cold Drinks,5,3.0,15.0,Credit Card
+TXN0056,2023-07-01,Tea,Hot Drinks,4,2.5,10.0,Mobile Payment
+TXN0292,2023-06-17,Bagel,Food,5,4.0,20.0,Credit Card
+TXN0255,2023-05-16,Tea,Hot Drinks,4,2.5,10.0,Credit Card
+TXN0198,2023-05-10,Sandwich,Food,1,6.0,6.0,Mobile Payment
+TXN0069,2023-10-05,Coffee,Hot Drinks,5,3.5,17.5,Cash
+TXN0211,2023-12-28,Cake,Food,3,4.5,13.5,Cash
+TXN0233,2023-04-15,Latte,Hot Drinks,1,4.5,4.5,Debit Card
+TXN0202,2023-03-02,Tea,Hot Drinks,2,2.5,5.0,Mobile Payment
+TXN0169,2023-09-17,Salad,Food,1,7.0,7.0,Debit Card
+TXN0036,2023-11-17,Espresso,Hot Drinks,1,3.0,3.0,Debit Card
+TXN0130,2023-02-24,Sandwich,Food,1,6.0,6.0,Mobile Payment
